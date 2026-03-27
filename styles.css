@@ -19,7 +19,7 @@
   --color-text: #2d3748;
   --color-text-light: #4a5568;
   --color-text-muted: #718096;
-  --color-bg: #f7fafc;
+  --color-bg: #ffffff;
   --color-white: #ffffff;
   --color-border: #e2e8f0;
   --color-border-light: #edf2f7;
@@ -365,6 +365,11 @@ main {
 .paper-status.revision {
   background: #fffaf0;
   color: #c05621;
+}
+
+.paper-status.accepted {
+  background: #f0fff4;
+  color: #276749;
 }
 
 .paper-status.submitted {
