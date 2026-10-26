@@ -409,6 +409,16 @@ main {
   font-family: var(--font-body);
 }
 
+.paper-media {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+.paper-media a {
+  color: var(--color-secondary);
+}
+
 .paper-abstract {
   display: none;
   margin-top: 0.4rem;
